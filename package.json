@@ -1,0 +1,25 @@
+{
+  "name": "command-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Britishkun/command-handler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Britishkun/command-handler/issues"
+  },
+  "homepage": "https://github.com/Britishkun/command-handler#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.11"
+  }
+}
